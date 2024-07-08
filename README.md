@@ -1,4 +1,4 @@
-# Project Description: Data Science Internship Project at SkillCraft Technology
+# Project Description: Data Science Internship Task 1 at SkillCraft Technology
 
 # Overview
 This repository documents my Data Science Internship project at SkillCraft Technology, where I tackled diverse tasks in data exploration, cleaning, and visualization using Python.
